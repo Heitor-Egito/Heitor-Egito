@@ -5,7 +5,9 @@ I'm Heitor Egito, an InfoWeb student at the Instituto Federal do Rio Grande do N
 - *Python*
   - *PyGame* -> A Library for creating games.
   - *Discord.Py* -> A Library for building Discord bots that performs various tasks.
- 
+- *HTML and CSS*
+  - *All my "projects" are [here](https://github.com/heitorgtegito/classes-related/tree/main/Autoria%20Web)*
+  - 
 #
 **Some stuff I built:**
 - [Mirai Bot](https://github.com/Heitor-Egito/Discord-Bot-with-Python.git) --> A Discord Bot that can give/remove roles from an user
